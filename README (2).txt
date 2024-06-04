@@ -1,4 +1,4 @@
-CCat or Dog Classifier Using Transfer Learning
+Cat or Dog Classifier Using Transfer Learning
 Introduction
 This project demonstrates the application of transfer learning to classify images of cats and dogs. It uses the Xception model pre-trained on the ImageNet dataset as a base model, with additional custom layers to adapt it to the task of binary classification (cats vs. dogs).
 
