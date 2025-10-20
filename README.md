@@ -1,9 +1,6 @@
 # Cat-or-Dog-Image-Classifier
 developed with Google colab
 
-
-Below is a structured README.md file format that you could use to describe the Cat or Dog classification project based on the TensorFlow notebook content you provided:
-
 Cat or Dog Image Classifier
 This project is an implementation of a binary image classifier to differentiate between images of cats and dogs. It leverages TensorFlow, a powerful library for numerical computation and large-scale machine learning, and employs a convolutional neural network (CNN) trained on a substantial dataset of cat and dog images.
 
