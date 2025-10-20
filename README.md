@@ -107,10 +107,11 @@ Loss Function: Binary Crossentropy
 Metric: Accuracy
 
 ##Training Performance (Sample)
-Epoch	Training Accuracy	Validation Accuracy	Loss
-1	96.7%	96.2%	0.078
-2	97.2%	95.7%	0.073
-3	97.6%	95.3%	0.058
+|Epoch |Training Accuracy|Validation Accuracy  |Loss    |
+|------|-----------------|---------------------|--------|
+|1	   |96.7%	         |96.2%	               |0.078   |
+|2	   |97.2%	         |95.7%	               |0.073   |
+|3	   |97.6%	         |95.3%	               |0.058   |
 
 Training Time: ~0.46 hours (on GPU)
 
